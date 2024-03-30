@@ -5,6 +5,7 @@
     "require": {
         "php": "^8.3",
         "potter/event-trait": "dev-main",
+        "potter/event-dispatcher-trait": "dev-main",
         "potter/stoppable-event-trait": "dev-main"
     },
     "suggest": {
