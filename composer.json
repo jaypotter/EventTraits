@@ -1,0 +1,16 @@
+{
+    "name": "potter/event-traits",
+    "description": "PHP Event Trait Collection",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
