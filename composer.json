@@ -1,12 +1,12 @@
 {
     "name": "potter/event-traits",
-    "description": "PHP Event Trait Collection",
+    "description": "PHP Collection of Event Traits",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/event-trait": "dev-main",
-        "potter/event-dispatcher-trait": "dev-main",
-        "potter/stoppable-event-trait": "dev-main"
+        "potter/event-trait": "v0.0.1-alpha@alpha",
+        "potter/event-dispatcher-trait": "v0.0.1-alpha@alpha",
+        "potter/stoppable-event-trait": "v0.0.1-alpha@alpha"
     },
     "suggest": {
         "potter/event": "dev-main",
@@ -20,5 +20,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
